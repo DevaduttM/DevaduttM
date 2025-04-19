@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently pursuing Computer Science and Engineering student.<br>I'm a Full Stack Web Developer.<br>I'm currently working on Machine Learning projects as well.
+# 💫 About Me
+I'm currently pursuing Computer Science and Engineering.<br>I'm a Full Stack Web Developer.<br>I'm currently working on Machine Learning projects as well.
 
 
 ## 🌐 Socials:
